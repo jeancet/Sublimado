@@ -72,8 +72,7 @@ h4{
 
 }
 .galeria{
-    width: 100%;
-    height: 450px;
+    heightd: 500px;
     overflow: hidden;
     display: inline-block;
     position: relative;
